@@ -1,0 +1,32 @@
+welcome: "Welcome to Rock Paper Scissors Spock Lizard!"
+game_rules:
+  "This is an updated version of the classic Rock Paper Scissors game. The rules
+  of play are:\n
+    Scissors cuts paper\n
+    Paper covers rock\n
+    Rock crushes lizard\n
+    Lizard poisons spock\n
+    Spock smashes scissors\n
+    Scissors decapitates lizard\n
+    Lizard eats paper\n
+    Paper disproves spock\n
+    Spock vaporizes rock\n
+    Rock crushes scissors\n
+\nYou will play against the computer. The first to win 3 games wins the match. 
+\nPress enter when you are ready to play."
+
+player_selection:
+  "Enter your choice. You can enter the letters or word:\n
+    'r' for rock\n
+    'p' for paper\n
+    'sc' for scissors\n
+    'sp' for spock\n
+    'l' for lizard"
+
+not_valid: "That is not a valid choice. Please try again."
+player_winner: "You are the match winner!"
+computer_winner: "The computer is the match winner! Better luck next time."
+next_game: "Press enter to continue."
+again: "Would you like to play again? ('y' for yes, 'n' for no)"
+goodbye: "Hope you had fun playing Rock Paper Scissors Spock Lizard! See you
+again soon!"
